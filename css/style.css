@@ -56,6 +56,10 @@ p {
     background: #ffffff;
     margin-bottom: 0;
 }
+.header-o img {
+  float: left;
+  width: 100px;
+}
 .custom-navbar .navbar-brand  {
 	color: #303030;
 	font-size: 40px;
