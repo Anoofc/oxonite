@@ -272,6 +272,12 @@ p {
   display: block;
 }
 
+.header-img {
+  width: 100%;
+  height: 400px;
+  background: url("../images/oxonite.png");
+  background-size: cover;
+}
 /* team section */
 #team {
   text-align: center;
